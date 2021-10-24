@@ -1,0 +1,1 @@
+routes are for routing or API paths
